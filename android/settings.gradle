@@ -1,0 +1,3 @@
+rootProject.name = 'rnTesseractDemo'
+
+include ':app'
